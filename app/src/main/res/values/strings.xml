@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News 24</string>
+    <string name="reaf_full_article">Reaf Full Article</string>
+    <string name="read_full_article">Read Full Article</string>
+</resources>
